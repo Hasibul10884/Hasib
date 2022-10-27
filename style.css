@@ -1,0 +1,49 @@
+body{
+    font-family: 'Poppins', sans-serif;
+
+}
+
+h1{
+
+  font-size: 50px;  
+}
+
+h2
+{
+
+    font-size: 40px;
+}
+.text-color{
+    color: white;
+}
+.top{
+    background-image: url('images/wave.svg');
+    background-repeat: no-repeat;
+}
+
+section{
+
+    display: flex;
+    padding: 5%;
+  
+}
+.hf{
+    width: 50%;
+}
+
+img{
+    width: 80%;
+
+    border-radius: 50%;
+   
+}
+
+.link{
+    margin-top: 5px;
+    text-decoration: none;
+    padding: 10px 30px;
+    background-color: blueviolet;
+    color:white ;
+    border-radius: 10px;
+    font-weight: bold;
+}
